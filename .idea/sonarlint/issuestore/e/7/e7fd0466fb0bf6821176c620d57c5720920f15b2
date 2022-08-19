@@ -1,0 +1,19 @@
+
+v
+java:S4276"[Refactor this code to use the more specialised Functional Interface 'UnaryOperator<String>'(äëá‘ùÿÿÿÿ
+S	java:S106	"9Replace this use of System.out or System.err by a logger.(®ıáëûÿÿÿÿ
+v
+java:S4276"[Refactor this code to use the more specialised Functional Interface 'UnaryOperator<String>'(Ã²“Ãùÿÿÿÿ
+[
+java:S1612"@Replace this lambda with method reference 'String::toLowerCase'.(Ã²“Ãùÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ïÆ©üÿÿÿÿ
+q
+java:S4276"[Refactor this code to use the more specialised Functional Interface 'ToIntFunction<String>'( Ñ¯¶
+Q
+java:S1612";Replace this lambda with method reference 'String::length'.( Ñ¯¶
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ÂéÓ¡ıÿÿÿÿ
+q
+java:S4276"VRefactor this code to use the more specialised Functional Interface 'IntUnaryOperator'(°·ëøÿÿÿÿ
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Ã¶Šèşÿÿÿÿ8ªÜõîª0
+t
+java:S1488"^Immediately return this expression instead of assigning it to the temporary variable "triple".(‘ÜÈ
