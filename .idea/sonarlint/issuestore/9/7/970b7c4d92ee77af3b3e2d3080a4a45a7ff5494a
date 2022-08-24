@@ -1,0 +1,18 @@
+
+l
+java:S4276"VRefactor this code to use the more specialised Functional Interface 'IntUnaryOperator'(Á”™¸
+v
+java:S4276
+"[Refactor this code to use the more specialised Functional Interface 'UnaryOperator<String>'(É¯ï‰ûÿÿÿÿ
+V	java:S125"<This block of commented-out lines of code should be removed.(§±Íüÿÿÿÿ
+q
+java:S4276"[Refactor this code to use the more specialised Functional Interface 'ToIntFunction<String>'(˜üÇã
+x
+java:S1488"bImmediately return this expression instead of assigning it to the temporary variable "numOfChars".(­õ¼
+h
+java:S1104"RMake myFunc a static final constant or non-public and provide accessors if needed.(Á”™¸
+r
+java:S1104
+"WMake anotherFunc a static final constant or non-public and provide accessors if needed.(É¯ï‰ûÿÿÿÿ
+v
+java:S1104"`Make wordLengthCalculator a static final constant or non-public and provide accessors if needed.(˜üÇã
