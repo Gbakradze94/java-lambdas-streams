@@ -7,6 +7,10 @@ import java.util.Map;
 
 import static java.util.stream.Collectors.groupingBy;
 
+
+/**
+ * #4.1 Streams In Java
+ */
 public class StreamsDemo {
 
     public static void main(String[] args) {
